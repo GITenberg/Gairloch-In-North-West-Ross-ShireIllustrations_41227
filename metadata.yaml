@@ -1,0 +1,31 @@
+_repo: Gairloch-In-North-West-Ross-ShireIllustrations_41227
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41227-h/images/cover.png
+creator:
+  author:
+    agent_name: Dixon, John H. (John Henry)
+    alias: Dixon, John Henry
+    birthdate: 1838
+    deathdate: 1926
+    gutenberg_agent_id: '41046'
+    url: http://www.gutenberg.org/2009/agents/41046
+description: ''
+gutenberg_issued: '2012-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41227'
+  lccn: '94103159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gairloch (Scotland) -- History'
+- !lcsh 'Ross and Cromarty (Scotland) -- History'
+- !lcsh 'Gairloch (Scotland) -- Guidebooks'
+- !lcc 'DA'
+title: "Gairloch in North-West Ross-Shire\r\nIts Records, Traditions, Inhabitants,\
+  \ and Natural History, with a Guide to Gairloch and Loch Maree, and a Map and Illustrations"
+url: http://www.gutenberg.org/ebooks/41227
